@@ -26,12 +26,8 @@ Also navigation on webpage will be responsive through other devices regardless t
 - Navigation Menu at the top of the page on the right side, sections are clickable and hovering make a different style than other ones with the black background.
 -This menu is built dynamically using JavaScript.
 
-<a href="https://ibb.co/C5Hhmdx"><img src="https://i.ibb.co/rGw4FPn/Screen-Shot-1.png" alt="Screen-Shot-1" border="0" /></a>
-
 ### Section Active State Indication
-- Adding to the dynamism of the page, user can differentiate between active section while being in the visual view port and other sections that are inactive, just by scrolling into that section: 
-
-<a href="https://ibb.co/HTCVy07"><img src="https://i.ibb.co/5hk63dT/Screen-Shot-2021-07-20-at-10-54-07-AM.png" alt="Screen-Shot-2021-07-20-at-10-54-07-AM" border="0"></a>
+- Adding to the dynamism of the page, user can differentiate between active section while being in the visual view port and other sections that are inactive, just by scrolling into that section
 
 ### Scroll to Selected Section
 - User can navigate from the top menu through any section just with a click and will be transfered to the required link in a bit with dynamic and responsive scrolling animation feature. 
@@ -39,12 +35,10 @@ Also navigation on webpage will be responsive through other devices regardless t
 ### Responsiveness on Smaller Screens
 - User can navigate from different devices with different screen size. Webpage is responsive on smaller sceens and navigation menu is compacted to meet the required size for better display of the content. 
 
-<a href="https://ibb.co/Yfv4BZG"><img src="https://i.ibb.co/VMX0Ym8/Screen-Shot-2021-07-20-at-11-02-29-AM.png" alt="Screen-Shot-2021-07-20-at-11-02-29-AM" border="0"></a>
-
 ## References
 The fourth section was done by adding addSection() function by querySelector(), createElement(), setAttribute(), innerHTML() Methods.
 
-The CSS section done by modifying Navigation Styles in the starter code to create the media query [Source: Starter code in Udacity.
+The CSS section done by modifying Navigation Styles in the starter code to create the media query [Source: Starter code in Udacity].
 
 The JavaScript file done by: Initializing the Global variables using: JavaScript and the DOM section in Getting Started section of Udacity Project with the suggested methods: .querySelectorAll(), getElementById()
 createDocumentFragment() method used as stated in Performance Lesson 5.
